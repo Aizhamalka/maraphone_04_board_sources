@@ -1,3 +1,3 @@
-### Создаём свою мини-игру
+### Deployed link
 
-Создадим визуальную мини-игру с динамической генерацией контента
+https://aizhamalka.github.io/maraphone_04_board_sources/
